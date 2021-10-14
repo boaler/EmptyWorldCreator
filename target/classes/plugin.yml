@@ -1,7 +1,0 @@
-name: EmptyWorldCreator
-version: 1.1
-description: Provides an empty world generator
-author: boaler
-main: me.boaler.emptyworldcreator.EmptyWorldCreator
-load: STARTUP
-api-version: 1.16
